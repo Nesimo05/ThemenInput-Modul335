@@ -6,7 +6,7 @@ Von Anthony, Davud, Sebastian, Maximilian, Tyrone & Nesim
 ## Inhaltsverzeichnis
 
 
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
+  
   - [1. Layouts und Navigationen:](#1-layouts-und-navigationen)
     - [1.1 Layouts:](#11-layouts)
     - [1.2 Navigationen:](#12-navigationen)
