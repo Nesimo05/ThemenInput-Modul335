@@ -5,7 +5,7 @@ Von Anthony, Davud, Sebastian, Maximilian, Tyrone & Nesim
 
 ## Inhaltsverzeichnis
 
-- [Xamarin.Forms und .NET MAUI Übersicht](#xamarinforms-und-net-maui-übersicht)
+
   - [Inhaltsverzeichnis](#inhaltsverzeichnis)
   - [1. Layouts und Navigationen:](#1-layouts-und-navigationen)
     - [1.1 Layouts:](#11-layouts)
